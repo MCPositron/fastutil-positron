@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastutil-lite" />
+        <module name="inthashmap" />
+        <module name="fastutil-longthashmap" />
+        <module name="longbase" />
+        <module name="longcustomhashmap" />
+        <module name="intbase" />
+        <module name="intcustomhashmap" />
+        <module name="longhashmap" />
+        <module name="base" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base" target="1.5" />
+      <module name="fastutil-base" target="1.8" />
+      <module name="fastutil-booleanbase" target="1.8" />
+      <module name="fastutil-bytebase" target="1.8" />
+      <module name="fastutil-bytecustomhashmap" target="1.8" />
+      <module name="fastutil-bytehashmap" target="1.8" />
+      <module name="fastutil-charbase" target="1.8" />
+      <module name="fastutil-charcustomhashmap" target="1.8" />
+      <module name="fastutil-charhashmap" target="1.8" />
+      <module name="fastutil-doublebase" target="1.8" />
+      <module name="fastutil-doublecustomhashmap" target="1.8" />
+      <module name="fastutil-doublehashmap" target="1.8" />
+      <module name="fastutil-floatbase" target="1.8" />
+      <module name="fastutil-floatcustomhashmap" target="1.8" />
+      <module name="fastutil-floathashmap" target="1.8" />
+      <module name="fastutil-intbase" target="1.8" />
+      <module name="fastutil-intcustomhashmap" target="1.8" />
+      <module name="fastutil-inthashmap" target="1.8" />
+      <module name="fastutil-iobase" target="1.8" />
+      <module name="fastutil-longbase" target="1.8" />
+      <module name="fastutil-longcustomhashmap" target="1.8" />
+      <module name="fastutil-longhashmap" target="1.8" />
+      <module name="fastutil-longthashmap" target="1.8" />
+      <module name="fastutil-object2booleanmap" target="1.8" />
+      <module name="fastutil-object2bytemap" target="1.8" />
+      <module name="fastutil-object2charmap" target="1.8" />
+      <module name="fastutil-object2doublemap" target="1.8" />
+      <module name="fastutil-object2floatmap" target="1.8" />
+      <module name="fastutil-object2intmap" target="1.8" />
+      <module name="fastutil-object2longmap" target="1.8" />
+      <module name="fastutil-object2objectmap" target="1.8" />
+      <module name="fastutil-object2x" target="1.8" />
+      <module name="fastutil-objectbase" target="1.8" />
+      <module name="fastutil-objectcustomhashmap" target="1.8" />
+      <module name="fastutil-objecthashmap" target="1.8" />
+      <module name="fastutil-parent" target="1.5" />
+      <module name="fastutil-shortbase" target="1.8" />
+      <module name="fastutil-shortcustomhashmap" target="1.8" />
+      <module name="fastutil-shorthashmap" target="1.8" />
+      <module name="intbase" target="1.5" />
+      <module name="intcustomhashmap" target="1.5" />
+      <module name="inthashmap" target="1.5" />
+      <module name="longbase" target="1.5" />
+      <module name="longcustomhashmap" target="1.5" />
+      <module name="longhashmap" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
